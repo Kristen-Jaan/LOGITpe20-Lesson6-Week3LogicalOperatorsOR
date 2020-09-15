@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Week3LogicalOperatorsOR\DaysOfTheWeek\bin\Debug\netcoreapp3.1\DaysOfTheWeek.exe
+C:\Users\opilane\source\repos\Week3LogicalOperatorsOR\DaysOfTheWeek\bin\Debug\netcoreapp3.1\DaysOfTheWeek.deps.json
+C:\Users\opilane\source\repos\Week3LogicalOperatorsOR\DaysOfTheWeek\bin\Debug\netcoreapp3.1\DaysOfTheWeek.runtimeconfig.json
+C:\Users\opilane\source\repos\Week3LogicalOperatorsOR\DaysOfTheWeek\bin\Debug\netcoreapp3.1\DaysOfTheWeek.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Week3LogicalOperatorsOR\DaysOfTheWeek\bin\Debug\netcoreapp3.1\DaysOfTheWeek.dll
+C:\Users\opilane\source\repos\Week3LogicalOperatorsOR\DaysOfTheWeek\bin\Debug\netcoreapp3.1\DaysOfTheWeek.pdb
+C:\Users\opilane\source\repos\Week3LogicalOperatorsOR\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Week3LogicalOperatorsOR\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Week3LogicalOperatorsOR\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Week3LogicalOperatorsOR\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Week3LogicalOperatorsOR\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.dll
+C:\Users\opilane\source\repos\Week3LogicalOperatorsOR\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.pdb
+C:\Users\opilane\source\repos\Week3LogicalOperatorsOR\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.genruntimeconfig.cache
